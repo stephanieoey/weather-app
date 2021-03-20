@@ -149,3 +149,11 @@ button:hover {
 .built-by a:hover {
   color: rgba(255, 255, 255, 0.7);
 }
+
+.open-source a {
+  color: white;
+}
+
+.open-source a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
